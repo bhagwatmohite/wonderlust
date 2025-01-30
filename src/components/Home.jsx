@@ -24,6 +24,7 @@ const Home = () => {
           </div>
         </nav>
         {/* <!-- END nav --> */}
+        {/* okkkkkkkkkkkkkkkkkkkkk */}
 
         <div className="hero-wrap js-fullheight" style={{
           backgroundImage: "url('ui/images/bg_5.jpg')",
